@@ -151,7 +151,7 @@ void shopping::add(){
     }
     else{
         //if data file exists, we read from file
-        data>>c>>n>>p>>d;
+        data>>c>>n>>p>>d
 
     }
 }
